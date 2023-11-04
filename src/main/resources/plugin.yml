@@ -1,0 +1,14 @@
+name: Lephu.de
+version: '${project.version}'
+main: awesome.de.de.awesome.main
+api-version: 1.18
+authors: [Lephu]
+commands:
+  head:
+    description: Weil Bäume grün sind kannst du mit dem Befehl sachen auf deinen Schädel setzten!!!
+  sit:
+    description: Mit diesem Command kann man sich hinsetzten!!!
+  heal:
+    description: Das ist ein Heal Command
+
+
